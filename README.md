@@ -8,7 +8,7 @@ Open your `JavaScript Console` through the developer tools and you'll see the ou
 
 #### Prelude
 
-1. Accept this repo invite: https://classroom.github.com/a/9O_5Hg6g
+1. Accept this repo invite: https://classroom.github.com/a/yftuzopZ
 
 2. Using your source control tool of choice `clone` the repository
 
